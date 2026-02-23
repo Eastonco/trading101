@@ -191,9 +191,203 @@ Qualified dividends are taxed at long-term capital gains rates.
 
 **Result of violation:** Loss is disallowed; basis is added to replacement shares.
 
-### Tax-Loss Harvesting
+### Tax-Loss Harvesting: Complete Guide
 
-**Annual limits:**
+**What it is:** Selling investments at a loss to offset taxable capital gains and reduce your tax bill, then reinvesting in a similar (but not identical) investment to maintain market exposure.
+
+#### Why Tax-Loss Harvesting Matters
+
+**Tax savings example:**
+- You have $20,000 in realized capital gains from profitable trades
+- You have $15,000 in unrealized losses in other positions
+- Without harvesting: Owe taxes on $20,000 gain (~$3,000-$4,000 in taxes)
+- With harvesting: Owe taxes on only $5,000 net gain (~$750-$1,000 in taxes)
+- **Tax savings: $2,250-$3,000**
+
+#### Annual Limits and Rules
+
+**How losses are applied:**
+1. Capital losses offset capital gains dollar-for-dollar (unlimited)
+2. Up to $3,000 of excess losses offset ordinary income
+3. Remaining losses carry forward indefinitely to future years
+
+**Example of carryforward:**
+- Year 1: Realize $50,000 loss, $10,000 gains
+- Net loss: $40,000
+- Use $3,000 to offset ordinary income
+- Carry forward: $37,000 to future years
+
+#### The Wash Sale Rule (Critical)
+
+**The Rule:** You cannot claim a loss if you purchase a "substantially identical" security within 30 days before or after the sale date (61-day total window).
+
+**What triggers a wash sale:**
+- Buying the same stock/security within 30 days
+- Buying in ANY account (including spouse's or IRA)
+- Options on the same underlying
+- Substantially identical securities
+
+**What happens:** Loss is disallowed and added to the cost basis of replacement shares (deferred, not lost forever).
+
+**Example of violation:**
+- Dec 10: Sell 100 shares AAPL at $10,000 loss
+- Dec 20: Buy 100 shares AAPL back
+- Result: $10,000 loss disallowed; basis increased on new shares
+
+#### How to Avoid Wash Sales
+
+**Strategy 1: Wait 31 days**
+- Sell losing position
+- Wait 31 calendar days
+- Buy back if desired
+- Risk: Price may move against you
+
+**Strategy 2: Buy similar but not identical**
+- Sell VTI (Vanguard Total Market)
+- Buy ITOT or SCHB (similar but different funds)
+- Maintain market exposure
+- No wash sale
+
+**Strategy 3: Double up then sell**
+- Day 1: Buy additional shares
+- Day 31+: Sell original shares at loss
+- Maintains exposure throughout
+- More capital required
+
+#### Tax-Loss Harvesting Strategy
+
+**Best time:** November-December (year-end planning)
+
+**Steps:**
+1. Review portfolio for unrealized losses (October-November)
+2. Check realized gains for the year
+3. Identify positions to harvest
+4. Sell losing positions
+5. Immediately buy similar (not identical) replacement
+6. Track wash sale windows
+7. Document everything for taxes
+
+**Year-round approach:**
+- Monitor positions quarterly
+- Harvest losses as they become significant (>$1,000)
+- Don't wait for year-end
+- Especially valuable in volatile markets
+
+#### Common Mistakes
+
+**1. Violating wash sale rule**
+- Buying back too soon
+- Forgetting about IRA purchases
+- Spouse's account purchases
+
+**2. Harvesting unnecessary losses**
+- You're in 0% capital gains bracket
+- No gains to offset and small ordinary income
+- Creates unnecessary complexity
+
+**3. Letting tax tail wag investment dog**
+- Selling winners to avoid taxes when you should hold
+- Holding losers just to avoid wash sale
+- Investment thesis should drive decisions
+
+**4. Not replacing immediately**
+- Selling and waiting = market timing risk
+- Use similar ETFs to maintain exposure
+
+**5. Forgetting state taxes**
+- Federal + state tax savings can be substantial
+- Calculate total benefit
+
+#### Examples
+
+**Example 1: Simple harvest**
+- Own 100 shares XYZ at $100/share ($10,000 cost)
+- Current price: $70/share ($7,000 value)
+- Loss: $3,000
+- Action: Sell XYZ, immediately buy similar ABC
+- Result: $3,000 loss harvested, maintain market exposure
+
+**Example 2: ETF swaps (common pairs)**
+
+| Sell (Loss) | Buy (Similar) | Asset Class |
+|-------------|---------------|-------------|
+| VTI | ITOT or SCHB | US Total Market |
+| VOO | SPLG or IVV | S&P 500 |
+| VEA | IEFA or SCHF | International Developed |
+| VWO | IEMG or SCHE | Emerging Markets |
+| BND | AGG or SCHZ | Total Bond Market |
+
+**Example 3: Individual stocks**
+- Sell losing position in JPMorgan
+- Buy Bank of America or Wells Fargo
+- Different companies = no wash sale
+- Maintain financial sector exposure
+
+#### Special Situations
+
+**Mutual funds vs ETFs:**
+- Mutual funds: Harder to find "different enough" alternatives
+- ETFs: Many similar options available
+- Consider switching from mutual funds to ETF equivalents
+
+**Index funds:**
+- Small differences in methodology may not be enough
+- Use different index providers (S&P vs Russell vs CRSP)
+- Document why you believe they're not substantially identical
+
+**Cryptocurrency:**
+- As of 2024, wash sale rule does NOT apply to crypto
+- Can sell and rebuy immediately
+- This may change with future legislation
+
+**Robo-advisors:**
+- Many automate tax-loss harvesting
+- Betterment, Wealthfront, Schwab Intelligent Portfolios
+- Generally efficient but watch for wash sales across accounts
+
+#### Tax-Gain Harvesting (Bonus Strategy)
+
+**If you're in 0% capital gains bracket:**
+- Single: <$47,025 taxable income (2024)
+- Married: <$94,050 taxable income (2024)
+
+**Strategy:**
+- Sell profitable positions (realize gains)
+- Immediately rebuy (no wash sale rule for gains)
+- Step up cost basis
+- Pay $0 in taxes
+
+**Why this works:**
+- Increase basis for free
+- Reduces future capital gains
+- Common in early retirement or low-income years
+
+#### Documentation
+
+**Track for taxes:**
+- Date of sale
+- Date of purchase
+- Amounts
+- Replacement security
+- Loss amount
+- Any wash sale adjustments
+
+**Form 8949:** Reports all capital gains and losses
+**Schedule D:** Summary of capital gains/losses
+
+#### Advanced: Direct Indexing
+
+**What it is:** Instead of owning an index fund, own all individual stocks in an index
+
+**Benefits:**
+- Can harvest losses on individual stocks
+- While ETF shows no loss, individual stocks may have losses
+- Requires $100,000+ for proper diversification
+- Some platforms automate this (Wealthfront, Fidelity, etc.)
+
+---
+
+**Annual limits (summary):**
 - Capital losses offset capital gains dollar-for-dollar
 - Up to $3,000 of excess losses offset ordinary income
 - Remaining losses carry forward indefinitely

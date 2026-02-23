@@ -122,6 +122,174 @@ You've learned about markets, securities, accounts, strategies, and psychology. 
 
 ---
 
+## Step 2.5: Match Time Horizons to Liquidity Needs
+
+### Understanding Investment Time Horizons
+
+**Different goals have different timelines.** Your asset allocation and account choice should match when you need the money.
+
+| Time Horizon | Appropriate Investments | Risk Level |
+|--------------|------------------------|------------|
+| 0-1 years | Cash, HYSA, Money Market | Minimal |
+| 1-3 years | Cash, Short-term bonds, CDs | Very Low |
+| 3-5 years | Bond-heavy portfolio (70/30 bonds/stocks) | Low |
+| 5-10 years | Balanced portfolio (50/50 to 60/40) | Moderate |
+| 10-20 years | Stock-heavy portfolio (70/30 to 80/20) | Moderate-High |
+| 20+ years | Aggressive portfolio (80/20 to 90/10) | High |
+
+### Identifying Your Liquidity Needs
+
+**Document when you'll need money:**
+
+| Goal | Amount Needed | Years Until Need | Flexibility |
+|------|---------------|------------------|-------------|
+| Emergency fund | $20,000 | 0 (immediate access) | None |
+| Car purchase | $30,000 | 2 years | Some |
+| House down payment | $100,000 | 5 years | Moderate |
+| Children's college | $200,000 | 13 years | Some |
+| Retirement | $1,500,000 | 30 years | High |
+
+### The Liquidity Ladder
+
+**Structure your money based on when you need it:**
+
+**Tier 1: Immediate Access (0-1 year needs)**
+- Emergency fund
+- Planned expenses in next 12 months
+- Hold in: HYSA, Money Market, Checking
+- **Never invest this in stocks**
+
+**Tier 2: Near-Term Goals (1-5 years)**
+- House down payment
+- Car replacement
+- Wedding expenses
+- Sabbatical fund
+- Hold in: HYSA, CDs, Short-term bond funds, Conservative allocation
+- **Risk: Minimal to low; can't afford significant losses**
+
+**Tier 3: Medium-Term Goals (5-10 years)**
+- College funding (when kids are 10-15)
+- Business startup fund
+- Major home renovation
+- Hold in: Balanced portfolio, 529 plans
+- **Risk: Moderate; some stocks for growth but significant bond allocation**
+
+**Tier 4: Long-Term Goals (10+ years)**
+- Retirement
+- Legacy wealth
+- College funding (kids under 10)
+- Hold in: Stock-heavy portfolio across retirement accounts
+- **Risk: Higher; time allows recovery from downturns**
+
+### Common Liquidity Mistakes
+
+**1. Investing short-term money in stocks**
+
+**Problem:** Need money in 2 years for house down payment, invested in S&P 500
+**Risk:** Market drops 30%, now only have $70,000 of your $100,000
+**Result:** Can't buy house or must delay
+
+**Solution:** Keep 1-5 year money in cash/bonds
+
+**2. Keeping long-term money too safe**
+
+**Problem:** 30 years to retirement, keeping everything in savings account
+**Result:** Inflation erodes purchasing power, missing decades of growth
+**Solution:** Long-term money should be invested for growth
+
+**3. No separation between time horizons**
+
+**Problem:** All money in one account, one investment strategy
+**Risk:** When you need to tap it for near-term goal, might be forced to sell at loss
+**Solution:** Separate accounts/allocations for different time horizons
+
+### Asset Allocation by Goal Timeline
+
+**Example: Sarah, 35, multiple goals**
+
+**Emergency Fund ($20,000) - 0 years:**
+- 100% HYSA
+- Immediate access required
+- No investment risk
+
+**House Down Payment ($80,000 target, need in 4 years):**
+- Currently: $50,000
+- Allocation: 20% stocks, 80% bonds/cash
+- Account: Taxable brokerage + HYSA
+- Strategy: Gradually shift to 100% cash over final year
+
+**Kids' College ($150,000 target, 13 years):**
+- Currently: $30,000
+- Allocation: 70% stocks, 30% bonds
+- Account: 529 plan
+- Strategy: Age-based glide path (auto-adjusts)
+
+**Retirement ($1.5M target, 30 years):**
+- Currently: $100,000
+- Allocation: 85% stocks, 15% bonds
+- Accounts: 401(k), Roth IRA, HSA
+- Strategy: Maintain aggressive growth allocation
+
+### Liquidity Reserve Strategy
+
+**Beyond emergency fund, consider:**
+
+**Opportunity fund:**
+- 3-6 months expenses extra in HYSA
+- Allows you to capitalize on opportunities without selling investments
+- Acts as additional buffer during market downturns
+
+**Mental accounting:**
+- Separate accounts for different goals reduces temptation to raid funds
+- Makes it easier to track progress
+- Provides psychological benefit of "buckets"
+
+### Adjusting Over Time
+
+**As goals approach, de-risk:**
+
+| Years Until Goal | Stock Allocation | Notes |
+|------------------|------------------|-------|
+| 10+ years | 70-80% | Full growth mode |
+| 5-10 years | 50-60% | Beginning to preserve |
+| 3-5 years | 30-40% | Significant preservation |
+| 1-3 years | 10-20% | Mostly preserved |
+| 0-1 years | 0-10% | Fully preserved |
+
+**Example: House down payment**
+- 5 years out: 60% stocks, 40% bonds
+- 3 years out: 40% stocks, 60% bonds
+- 1 year out: 10% stocks, 90% cash/bonds
+- 6 months out: 100% cash
+
+### When Life Horizons Conflict with Risk Capacity
+
+**Scenario:** Need down payment in 3 years, but also saving for retirement
+
+**Solution:** Separate the goals
+- Near-term down payment: Conservative allocation in taxable account
+- Long-term retirement: Aggressive allocation in 401(k)/IRA
+- Don't compromise long-term growth for short-term safety needs
+
+### The Flexibility Factor
+
+**Some goals are flexible, others aren't:**
+
+**Inflexible goals:**
+- College tuition due dates
+- Required home purchase (relocation for job)
+- Medical procedures
+
+**Flexible goals:**
+- House purchase (can wait for market)
+- Car replacement (can extend current car life)
+- Vacation home
+- Early retirement
+
+**Strategy:** Inflexible goals need conservative allocations. Flexible goals can accept more risk.
+
+---
+
 ## Step 3: Determine Your Risk Profile
 
 ### Risk Tolerance Assessment
@@ -281,6 +449,221 @@ You've learned about markets, securities, accounts, strategies, and psychology. 
 | REITs | 401(k)/Traditional IRA |
 | US Stock Index | Taxable or Roth |
 | Growth stocks | Roth IRA |
+
+---
+
+## Step 6.5: Ethical & Religious Investing Considerations
+
+### Values-Aligned Investing
+
+Your investment plan should align with your personal values and religious beliefs. Many investors choose to exclude certain industries or follow specific ethical frameworks.
+
+### Common Ethical Investing Approaches
+
+**Environmental, Social, and Governance (ESG)**
+- Focuses on companies with strong environmental practices
+- Considers social impact and corporate governance
+- Funds: VFTAX, ESGV, ESGU, DSI
+
+**Socially Responsible Investing (SRI)**
+- Excludes "sin stocks": tobacco, alcohol, gambling, weapons
+- Emphasizes positive social impact
+- Funds: VFTAX (Vanguard FTSE Social Index), DSI (iShares MSCI KLD 400)
+
+**Faith-Based Investing**
+- Catholic, Christian, Islamic, Jewish values
+- Screens based on religious principles
+- Various funds available for different faiths
+
+### Halal/Islamic Investing (Shariah-Compliant)
+
+**For Muslim investors, Shariah-compliant investing follows specific rules:**
+
+#### Core Principles
+
+**1. No Riba (Interest/Usury)**
+- Cannot invest in conventional banks
+- Cannot invest in companies with high debt ratios
+- Interest-bearing accounts are problematic (scholars differ)
+
+**2. No Haram Activities**
+- Cannot invest in:
+  - Alcohol production/distribution
+  - Gambling/casinos
+  - Pork products
+  - Conventional financial services (interest-based)
+  - Adult entertainment
+  - Tobacco
+  - Weapons manufacturing (some scholars)
+
+**3. Debt Ratios**
+- Company's debt typically must be <33% of market cap
+- Some scholars use <30% of total assets
+
+**4. Income Purity**
+- Less than 5% of revenue from non-halal sources
+- "Account purification" required if any impermissible income
+
+#### Halal Investment Options
+
+**Exchange-Traded Funds (ETFs):**
+
+| Fund | Ticker | Focus | Expense Ratio |
+|------|--------|-------|---------------|
+| Wahed Dow Jones Islamic World ETF | HLAL | Global Islamic stocks | 0.50% |
+| SP Funds S&P 500 Sharia Industry Exclusions | SPUS | US Large Cap Shariah | 0.49% |
+| Wahed FTSE USA Shariah ETF | UMMA | US Shariah-compliant | 0.50% |
+| iShares MSCI World Islamic ETF | ISWD | Global Islamic | 0.60% |
+
+**Mutual Funds:**
+- Amana Growth Fund (AMAGX)
+- Amana Income Fund (AMANX)
+- Azzad Ethical Fund (ADJEX)
+- Iman Fund
+
+**Individual Stocks:**
+- Screen using tools like Zoya, Islamicly, or Musaffa
+- Major halal stocks: Microsoft, Apple, Amazon, Tesla (when debt ratios comply)
+- Tech sector generally more halal-friendly (lower debt)
+
+#### Screening Process
+
+**Three-step filter:**
+
+**1. Business activity screening**
+- Exclude businesses in prohibited industries
+- Check primary revenue sources
+
+**2. Financial ratios screening**
+- Debt to market cap: <33%
+- Cash + interest-bearing securities: <33% of market cap
+- Accounts receivable: <45% of total assets
+
+**3. Income purification**
+- Calculate % of income from impermissible sources
+- Donate that % of your profits to charity
+- Most apps/tools calculate this automatically
+
+#### Implementing Halal Investing in Different Accounts
+
+**401(k) with BrokerageLink:**
+- Use BrokerageLink to access HLAL, SPUS, or UMMA
+- If no BrokerageLink: Choose least problematic options, purify dividends
+- See Chapter 7 for BrokerageLink setup
+
+**IRA/Roth IRA:**
+- Full control over investments
+- Use halal ETFs or screen individual stocks
+- Simplest for Shariah compliance
+
+**Taxable Brokerage:**
+- Full flexibility
+- Can use apps like Zoya for automatic screening
+- Track purification amounts for each holding
+
+**401(k) without BrokerageLink:**
+- Check if any funds exclude prohibited sectors
+- Some target-date funds may be partially acceptable
+- Purify dividends from problematic holdings
+- Consider minimum contribution for match only, max out IRAs instead
+
+#### Tools & Resources
+
+**Screening Apps:**
+- Zoya (free) - Screens stocks, tracks portfolio
+- Islamicly - Investment screening and tracking
+- Musaffa - Portfolio screening and purification calculator
+
+**Shariah Advisory:**
+- Many funds have dedicated Shariah boards
+- Consult knowledgeable scholars for specific situations
+- AAOIFI standards widely followed
+
+#### Common Questions
+
+**Q: Are index funds halal?**
+A: Most broad market index funds are NOT halal (contain banks, alcohol, etc.). Use Islamic ETFs that track Shariah-filtered indices.
+
+**Q: What about savings accounts with interest?**
+A: Scholars differ. Conservative view: avoid interest-bearing accounts. Pragmatic view: accept but immediately donate all interest to charity without intention of reward. Emergency funds may be kept in non-interest checking or use credit unions with profit-sharing models.
+
+**Q: Can I invest in tech companies?**
+A: Many tech companies are halal IF they pass financial ratio screens (Apple, Microsoft often pass). Check debt ratios regularly as they change.
+
+**Q: What about REITs?**
+A: Most REITs are not halal due to debt ratios and mortgage interest. Some Islamic REITs exist but rare in US markets.
+
+**Q: How do I calculate purification amount?**
+A: (Impermissible income / Total income) × Your gains = Amount to donate
+Most screening apps calculate this automatically.
+
+#### Performance Considerations
+
+**Historical performance:**
+- Islamic indices generally track conventional indices closely
+- Tech-heavy composition has benefited in recent years
+- Lower diversification (excludes financials) increases concentration risk
+- Higher expense ratios (0.50% vs 0.03% for conventional)
+
+**Trade-offs:**
+- Faith compliance vs. expense ratios
+- Reduced diversification vs. values alignment
+- Most investors find peace of mind worth the cost
+
+### Catholic/Christian Investing
+
+**USCCB guidelines for Catholic investors:**
+- Exclude abortion, contraception, embryonic stem cell research
+- Exclude pornography
+- Emphasize human dignity and social justice
+- Funds: AVEWX (Ave Maria funds), CAVLX (Catholic Values)
+
+**Christian values investing:**
+- Similar exclusions to Catholic
+- May emphasize biblical stewardship principles
+- Funds: Timothy Plan funds, GuideStone funds
+
+### Implementation Strategy
+
+**Step 1: Identify your constraints**
+- Which industries/activities to exclude?
+- Which ethical framework to follow?
+- Financial ratio requirements (if Islamic)
+
+**Step 2: Research available options**
+- ETFs that match your criteria
+- Mutual funds with screening
+- Individual stock screening tools
+
+**Step 3: Compare costs**
+- Expense ratios typically higher than conventional
+- Calculate impact: 0.50% vs 0.03% on long-term returns
+- Decide if values alignment worth the cost (usually yes)
+
+**Step 4: Implement across accounts**
+- Prioritize accounts with most control (IRA, taxable)
+- Use BrokerageLink in 401(k) if available
+- Accept compromises where necessary (employer match)
+
+**Step 5: Monitor and maintain**
+- Company status can change (acquisitions, business changes)
+- Financial ratios fluctuate
+- Review holdings quarterly
+- Use apps for ongoing screening
+
+### Don't Let Perfect Be Enemy of Good
+
+**You may face situations where perfect compliance is impossible:**
+- 401(k) with no halal/ethical options and great match
+- Limited investment options in certain accounts
+- Financial constraints
+
+**Reasonable approaches:**
+- Get employer match even if imperfect holdings
+- Max out accounts you can control (IRA, taxable)
+- Purify dividends where needed
+- Do your best within constraints
+- Consult religious advisors for specific guidance
 
 ---
 

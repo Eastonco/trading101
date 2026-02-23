@@ -180,6 +180,217 @@ Many plans offer company stock, sometimes at a discount. Be cautious:
 
 ---
 
+## BrokerageLink & Self-Directed Options
+
+### What Is BrokerageLink?
+
+**BrokerageLink (Fidelity), PCRA (Vanguard), Schwab SDBA (Schwab):** A self-directed brokerage window within your 401(k) that allows you to invest in a much wider range of securities beyond your plan's standard menu.
+
+**Standard 401(k) menu:**
+- 10-25 mutual funds chosen by employer
+- Often limited options
+- May have high expense ratios
+
+**With BrokerageLink:**
+- Thousands of stocks, ETFs, and mutual funds
+- Choose low-cost index funds not in your plan
+- Build custom portfolio
+- Access to individual stocks (if you want)
+
+### Is BrokerageLink Available in Your Plan?
+
+**Not all 401(k) plans offer this feature.**
+
+**To check:**
+1. Log into your 401(k) provider website
+2. Look for "BrokerageLink," "PCRA," "SDBA," or "Self-Directed"
+3. Contact HR or plan administrator
+4. Review your plan documents
+
+**Availability by provider:**
+- Fidelity: BrokerageLink
+- Vanguard: PCRA (Personal Choice Retirement Account)
+- Schwab: Schwab SDBA (Self-Directed Brokerage Account)
+- Empower: Self-Directed Brokerage
+- Other providers: May or may not offer
+
+### When to Use BrokerageLink
+
+**Good reasons to use:**
+
+**1. Your 401(k) menu is terrible**
+- All funds have expense ratios >0.50%
+- No good index fund options
+- Limited asset class coverage
+- Actively managed funds only
+
+**Example:**
+- Standard menu: Only high-fee actively managed funds (1.0%+ expense ratios)
+- BrokerageLink: Buy VTI (0.03%) and BND (0.03%)
+- Savings: ~0.97% annually = $9,700/year on $1M portfolio
+
+**2. You want specific investments not available**
+- Individual stocks (company research, concentrated positions)
+- Sector-specific ETFs (technology, healthcare)
+- International small-cap exposure
+- REITs or commodities
+- Low-cost alternatives to your plan's options
+
+**3. You want a specific investment strategy**
+- Dividend growth portfolio with individual stocks
+- Factor-based investing (value, momentum)
+- ESG/socially responsible investing
+- Halal/Islamic investing options
+
+**4. Asset location optimization**
+- Your plan has no good bond options
+- Use BrokerageLink for bonds, keep stocks in Roth IRA
+
+### When NOT to Use BrokerageLink
+
+**Stick with standard menu if:**
+
+**1. Your plan menu is already good**
+- Low-cost index funds available (≤0.10% expense ratios)
+- Adequate asset class coverage
+- Target-date fund option
+- No compelling reason to complicate
+
+**2. You don't want to manage it**
+- BrokerageLink requires active decisions
+- No auto-rebalancing
+- You're responsible for allocation
+- If you prefer "set and forget," stick with standard menu
+
+**3. You're tempted to trade frequently**
+- BrokerageLink access can encourage overtrading
+- Frequent trading hurts long-term returns
+- If you lack discipline, avoid the temptation
+
+**4. Employer match restrictions**
+- Some plans restrict match to standard menu only
+- Verify match applies to BrokerageLink holdings
+
+### How to Set Up BrokerageLink
+
+**Typical process:**
+
+1. **Enable the option**
+   - Log into 401(k) account
+   - Find BrokerageLink/SDBA section
+   - Agree to terms and conditions
+   - May take 1-3 business days to activate
+
+2. **Transfer funds**
+   - Choose amount to move (can be partial or full balance)
+   - Transfer from standard menu to BrokerageLink
+   - Usually takes 1-2 days to settle
+
+3. **Invest the money**
+   - Funds arrive as cash in BrokerageLink
+   - Must manually invest (won't auto-invest)
+   - Place trades for desired investments
+
+4. **Set up future contributions**
+   - Decide what % of contributions go to BrokerageLink
+   - Often limited to 50-95% of balance
+   - Remaining stays in standard menu
+
+### Fees and Restrictions
+
+**Common fees:**
+- Annual fee: $0-50 (some plans charge)
+- Trading commissions: Usually $0 for stocks/ETFs
+- Mutual fund fees: May apply for certain funds
+- Check your specific plan
+
+**Common restrictions:**
+- Minimum: Often $1,000 minimum to open
+- Maximum: Some plans limit to 50-90% of balance
+- Investment restrictions:
+  - Usually can't buy: Options, futures, margin, penny stocks
+  - Can buy: Stocks, ETFs, most mutual funds
+- Withdrawal restrictions: Money can't always be immediately withdrawn
+
+### Best Practices
+
+**1. Have a clear strategy**
+- Don't open BrokerageLink just to "have access"
+- Know exactly what you'll buy and why
+- Document your allocation plan
+
+**2. Keep it simple**
+- Three-fund portfolio works in BrokerageLink too
+- VTI + VXUS + BND = complete portfolio
+- Don't overcomplicate just because you can
+
+**3. Mind the employer match**
+- Verify match applies to all holdings
+- Some plans require X% in standard menu for match
+- Don't sacrifice free money for flexibility
+
+**4. Rebalance thoughtfully**
+- BrokerageLink requires manual rebalancing
+- Set calendar reminders (quarterly or annual)
+- Use new contributions to rebalance when possible
+
+**5. Consider when you leave**
+- BrokerageLink holdings roll over to IRA like any 401(k)
+- May be easier to manage multiple positions in IRA anyway
+- Think long-term
+
+### Example: When BrokerageLink Makes Sense
+
+**Scenario:**
+- Your 401(k) menu has only actively managed funds
+- Average expense ratio: 0.85%
+- No S&P 500 index fund
+- No international options
+- $100,000 balance
+
+**Solution:**
+1. Open BrokerageLink
+2. Transfer $95,000 (keep $5,000 in standard menu for match)
+3. Buy:
+   - $57,000 - VTI (0.03% ER)
+   - $28,500 - VXUS (0.07% ER)
+   - $9,500 - BND (0.03% ER)
+4. Set future contributions: 95% to BrokerageLink
+
+**Result:**
+- Expense savings: ~0.82% annually
+- Better diversification (international exposure)
+- $820/year saved on $100,000 (compounds over time)
+
+### Example: When BrokerageLink Doesn't Make Sense
+
+**Scenario:**
+- Your 401(k) has Vanguard index funds
+- VFIAX (S&P 500): 0.04%
+- VTIAX (International): 0.11%
+- VBTLX (Bonds): 0.05%
+- Target-date funds: 0.08%
+
+**Conclusion:**
+- Standard menu is already excellent
+- BrokerageLink adds complexity without benefit
+- Stick with simple target-date fund or three-fund portfolio in standard menu
+- Not worth the extra management
+
+### Special Use Case: Halal/Islamic Investing
+
+**For Muslim investors seeking Shariah-compliant options:**
+
+If your 401(k) standard menu doesn't offer halal funds, BrokerageLink can provide access to:
+- HLAL (Wahed Dow Jones Islamic World ETF)
+- SPUS (SP Funds S&P 500 Sharia Industry Exclusions ETF)
+- UMMA (Wahed FTSE USA Shariah ETF)
+- Individual stocks screened for Shariah compliance
+
+See the Ethical & Religious Investing section in Chapter 58 for more details on halal investing principles and implementation.
+
+---
+
 ## Key Features to Understand
 
 ### Automatic Enrollment
